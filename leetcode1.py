@@ -4,7 +4,7 @@ if len(nums)==1:
   print(nums[0])
 
 c=0
-if len(nums)==3:
+if len(nums)==3: 
   if nums[1]==nums[0]:
     print(nums[2])
   elif nums[1]==nums[2]:
