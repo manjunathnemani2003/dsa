@@ -13,6 +13,7 @@ if len(nums)==3:
     print(nums[1])
 
 
+
 for i in range(len(nums)):
   for j in range(len(nums)):
     if i!=j:
